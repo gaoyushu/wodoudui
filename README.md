@@ -23,11 +23,6 @@
 * [Recording problems]()   
 ----
 ## Information
-### Feature
-* 效果方面：
-* 技术方面：
-* 创新方面：
-* 其他方面：
 ### Authors
 #### 队名：发际线总和我作队
 学号|姓名|用户名|任务数|任务
@@ -39,6 +34,7 @@
 2017011958|王梦|wangmeng456|  |      
 2017011949|孙童|Gavin697419|  |  
 2017011948|牛玉欣|niuyuxin123|  |  
+
 ----
 ### Acknowledgement
 * Thanks to qile
