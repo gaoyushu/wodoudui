@@ -18,6 +18,8 @@
 #### 20190905 发际线总和我作队
 > ADD README.md
 >> * 初始化仓库（仓库目录/README）   
+> ADD Person/name/name.txt  
+>> * 初始化成员个人目录
 ----
 ## Wiki
 * [Recording problems]()   
