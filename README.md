@@ -21,6 +21,9 @@
 #### 20190908 白露
 > ADD Person/name/name.txt  
 >> * 初始化成员个人目录
+#### 20190920 财神银行  
+> ADD Person/name/财神银行.EAP  
+>> * 财神银行 现状业务序列图
 ----
 ## Wiki
 * [Recording problems]()   
