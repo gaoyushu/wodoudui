@@ -21,9 +21,12 @@
 #### 20190908 白露
 > ADD Person/name/name.txt  
 >> * 初始化成员个人目录
-#### 20190920 财神银行  
+#### 20190920 财神  
 > ADD Person/name/财神银行.EAP  
->> * 财神银行 现状业务序列图
+>> * 财神银行 存款/取款 业务用例图
+#### 20190923 秋分  
+>> * 财神银行 存款/取款 改进用例图
+>> * 财神银行 转款 用例图
 ----
 ## Wiki
 * [Recording problems]()   
@@ -43,4 +46,4 @@
 
 ----
 ### Acknowledgement
-* Thanks to qile
+* Thanks to 516fos
